@@ -1,5 +1,5 @@
 import javax.swing.*;
-public class SwingFirstExample {
+public class LoginSwing {
 
     public static void main(String[] args) {
 
